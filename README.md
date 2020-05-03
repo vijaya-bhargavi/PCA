@@ -23,7 +23,9 @@ Numpy
 How to run:
 
 Clone--
+
 Provide the path of image--
+
 run the command:python3 <filename.py>
 
 
